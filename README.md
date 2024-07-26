@@ -3,8 +3,8 @@ Because the API is paid for to run it on the server you can download the code an
 #  <h1>Live Link <a href="https://news-app-tawny-delta.vercel.app/"><b>Click here</b> </a></h1>
 
 ## Features
-![1](https://github.com/user-attachments/assets/dd42d865-49cd-4aa8-8521-78cd2c94ec35)
-![2](https://github.com/user-attachments/assets/b45b5793-5d11-4fb9-b006-3a420e0cdcf4)
+![1](https://github.com/user-attachments/assets/05f84611-7364-4240-bd3d-a19e37666481)
+![2](https://github.com/user-attachments/assets/92b2c86c-2e13-4828-823f-ae049fa7c51b)
 
 In the project directory, you can run:
 
